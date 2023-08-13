@@ -1,5 +1,5 @@
 import requests
-# i = input("число?" )
+
 with open("C:/Users/tanze/Documents/Python/datten/dataset_24476_3.txt") as f:
     f_lines = f.read().splitlines() #прочитали и разделили на линии
     for line in f_lines:
